@@ -4,6 +4,7 @@ This project visualizes timeseries data from a JSON file and allows users to int
 
 
 Features
+
 •	Responsive Design: The application adapts to different screen sizes and is user-friendly.
 •	Timeseries Data Table: Displays data for Germany, Greece, and France with the ability to filter by date.
 •	Line Chart Visualization: Shows a line chart of the timeseries data, updating automatically when the table is edited.
