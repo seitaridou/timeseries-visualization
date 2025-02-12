@@ -22,9 +22,9 @@ import DataTable from './components/DataTable.vue'
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #ff6464aa);
+  filter: drop-shadow(0 0 2em #6764ffcf);
 }
 .logo.vue:hover {
-  filter: drop-shadow(0 0 2em #b86742aa);
+  filter: drop-shadow(0 0 2em #42a4b8ce);
 }
 </style>
