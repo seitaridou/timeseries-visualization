@@ -23,7 +23,7 @@
 
 /* Table Header */
 .styled-table thead {
-  background-color: #444;
+  background-color: #b74839;  /* Light Peach */
   color: #fff;
 }
 
@@ -33,12 +33,12 @@
 }
 
 .styled-table tbody tr:nth-child(even) {
-  background-color: #e2e2e2;
+  background-color: #f4e5e0;  /* Light Nude */
 }
 
 /* Hover Effect */
 .styled-table tbody tr:hover {
-  background-color: #ccc;
+  background-color: #e0d4c4;  /* Light Tan */
 }
 
 /* Header Styling */
@@ -56,7 +56,7 @@
 
 /* Hover Effect on Text */
 .styled-table td:hover {
-  color: #007bff;
+  color: #e21b61;
   cursor: pointer;
   transition: color 0.3s ease-in-out;
 }
@@ -81,7 +81,7 @@
 
 .date-filter button {
   padding: 8px 16px;
-  background-color: #444;
+  background-color: #f5e0d3;  /* Light Peach */
   color: white;
   border: none;
   cursor: pointer;
@@ -89,5 +89,5 @@
 }
 
 .date-filter button:hover {
-  background-color: #007bff;
+  background-color: #83eb6a; /* Soft Green */
 }
